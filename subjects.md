@@ -5,20 +5,22 @@ column: 2
 index: 4
 ---
 
-![](images/tematyka.png)
-
-- Kodowanie, modulacja i transmisja
+- Podstawowe zagadnienia radiokomunikacji
+- Techniki kodowania, modulacji i transmisji
 - Cyfrowe przetwarzanie sygnałów
-- Systemy i sieci teleinformatyczne
-- Projektowanie i optymalizacja sieci
-- Systemy i sieci optyczne
-- Protokoły komunikacyjne
-- Modelowanie sieci
-- Pomiary w telekomunikacji
-- Internet rzeczy
+- Systemy i sieci komórkowe
+- Bezprzewodowe sieci sensorowe
+- Systemy i sieci radiowe i telewizyjne
+- Systemy i sieci trankingowe
+- Systemy i sieci radiokomunikacyjne publicznego i do zastosowań specjalnych
+- Systemy radionawigacyjne i radiolokalizacyjne
+- Radiokomunikacja morska, lotnicza i satelitarna
+- Technika antenowa i systemy MIMO
+- Propagacja fal radiowych
+- Planowanie i optymalizacja sieci radiokomunikacyjnych
+- Kompatybilność elektromagnetyczna systemów i urządzeń radiowych
+- Gospodarka i inżynieria widma e-m
+- Pomiary w radiokomunikacji, radiofonii i telewizji
+- Internet wszechrzeczy
+- Bezpieczeństwo w systemach bezprzewodowych
 - Systemy i sieci 5G
-- Sterowanie i zarządzanie sieciami
-- Usługi i aplikacje
-- Jakość i niezawodność
-- Bezpieczeństwo
-- Aspekty prawne i ekonomiczne w telekomunikacji

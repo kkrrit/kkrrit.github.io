@@ -13,4 +13,4 @@ ul. Janiszewskiego 9<br>
 50-372 Wrocław<br>
 tel.: +48 71 320 45 82<br>
 faks: +48 71 322 34 73<br>
-e-mail: [kstit@pwr.edu.pl](mailto:kstit@pwr.edu.pl)
+e-mail: [kkrrit@pwr.edu.pl](mailto:kkrrit@pwr.edu.pl)
