@@ -9,7 +9,7 @@ img.patron {
 
 .line {
   width:100%;
-  background-color: #2533B8;
+  background-color: #1B4A9C;
   height:.25em;
   margin-bottom: 1.5em;
 }
@@ -19,7 +19,7 @@ img.patron {
 }
 
 .kstit {
-  color: #031196;
+  color: green;
 }
 
 .red {
@@ -40,14 +40,14 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #2533B8;
+  color: #1B4A9C;
   font-family: "Staatliches";
 }
 
 .newsletter {
   border-radius: 1em;
   color:white;
-  background-color: #2533B8;
+  background-color: #1B4A9C;
   text-align: center;
   list-style-type: none;
   padding:5px 5px;
@@ -67,7 +67,7 @@ nav {
   background-color: #EEEEFC;
   margin-bottom: 1em;
   padding:1em 0 0em 0;
-  border-top: 5px solid #2533B8;
+  border-top: 5px solid #1B4A9C;
   border-bottom: 5px solid #EEEEFC;
   font-size: .9em;
 }
