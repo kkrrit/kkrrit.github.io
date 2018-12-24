@@ -5,20 +5,17 @@ index: 2
 column: 1
 ---
 
-##### Przewodniczący KSTiT 2019
+#### Komitet programowy
+
+##### Przewodniczący
 
 Tadeusz Więckowski – Politechnika Wrocławska
 
+##### Wiceprzewodniczący
 
+Józef Modelski – Politechnika Warszawska
 
-##### Komitet Sterujący
-
-{% for person in site.data.steering %}
-- {{person.name}}, <em>{{person.affiliation}}</em>
-{% endfor %}
-
-
-##### Komitet Programowy
+##### Członkowie
 
 {% for person in site.data.program %}
 - {{person.name}}, <em>{{person.affiliation}}</em>
