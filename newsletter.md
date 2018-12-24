@@ -6,7 +6,7 @@ title: Zapisy na listę mailingową
 ##### Zapisy na listę mailingową (Newsletter) KKRRiT 2019
 
 <div id="mc_embed_signup">
-<form action="https://pwr.us7.list-manage.com/subscribe/post?u=9e4e391c25b9bf9d84596d42f&amp;id=9c9d6443aa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://pwr.us7.list-manage.com/subscribe/post?u=9e4e391c25b9bf9d84596d42f&amp;id=3fb36cb8a7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
 
 
@@ -37,7 +37,7 @@ title: Zapisy na listę mailingową
   <label class="example-send-yourself-copy twelve columns">
     <input type="checkbox"><span class="label-body">Zgadzam się na przekazanie ww. danych organizatorom kolejnych edycji niniejszej konferencji<span class='red'>*</span></span>
   </label>
-  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9e4e391c25b9bf9d84596d42f_9c9d6443aa" tabindex="-1" value=""></div>
+  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9e4e391c25b9bf9d84596d42f_3fb36cb8a7" tabindex="-1" value=""></div>
   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
   </div>
 </form>
